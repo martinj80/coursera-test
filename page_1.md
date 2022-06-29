@@ -1,1 +1,3 @@
-# Page_1
+layout: page
+title: "Page_1"
+permalink: /page_1/
